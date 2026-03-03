@@ -1,6 +1,6 @@
 ### Serve files via HTTP.
 
-usage: 
+usage
 ```
 seenu --directory /home/kuugu/test --port 9000
 ```
